@@ -10,7 +10,7 @@ The dataset is intended for research in natural language processing, including d
 
 ## 📂 Dataset Structure
 ```
-├── Documents/     # 1,300+ pre-processed official documents
+├── Documents/     # 1,300+ original official documents
 ├── dataset.csv    # Text summarization dataset
 ├── videos.csv     # Metadata and transcripts for related communications
 └── README.md
